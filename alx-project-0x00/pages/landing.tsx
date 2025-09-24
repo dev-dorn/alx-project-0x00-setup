@@ -4,7 +4,7 @@ import Button from "@/components/Button";
 const Landing: React.FC = () => {
   return (
     <div className="flex flex-col gap-6 p-6">
-      {/* Title with Card inside */}
+      {/* Title with Card */}
       <h1 className="text-xl font-extralight">
         <Card />
       </h1>
